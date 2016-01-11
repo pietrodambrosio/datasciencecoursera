@@ -1,2 +1,2 @@
 # datasciencecoursera
-PD first course project. Required repository
+PD first course project. Repository datasciencecoursera created on my GitHub account.
